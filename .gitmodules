@@ -10,3 +10,6 @@
 [submodule "Curso-Reactjs-expert"]
 	path = Curso-Reactjs-expert
 	url = https://github.com/beduExpert/Curso-Reactjs-expert
+[submodule "Curso-Python-Expert-1"]
+	path = Curso-Python-Expert-1
+	url = https://github.com/beduExpert/Curso-Python-Expert-1
