@@ -13,3 +13,6 @@
 [submodule "Curso-Python-Expert-1"]
 	path = Curso-Python-Expert-1
 	url = https://github.com/beduExpert/Curso-Python-Expert-1
+[submodule "Curso-Backend-Fundamentals"]
+	path = Curso-Backend-Fundamentals
+	url = https://github.com/beduExpert/Curso-Backend-Fundamentals
