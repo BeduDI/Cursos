@@ -16,3 +16,9 @@
 [submodule "Curso-Backend-Fundamentals"]
 	path = Curso-Backend-Fundamentals
 	url = https://github.com/beduExpert/Curso-Backend-Fundamentals
+[submodule "Curso-Frontend-DisenoWeb-Expert"]
+	path = Curso-Frontend-DisenoWeb-Expert
+	url = https://github.com/moraelhumano/Curso-Frontend-DisenoWeb-Expert
+[submodule "Curso-Frontend-DisenoWeb-Student"]
+	path = Curso-Frontend-DisenoWeb-Student
+	url = https://github.com/moraelhumano/Curso-Frontend-DisenoWeb-Student
