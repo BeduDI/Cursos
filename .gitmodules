@@ -14,7 +14,7 @@
 	path = Curso-Python-Expert-1
 	url = https://github.com/beduExpert/Curso-Python-Expert-1
 [submodule "Curso-Backend-Fundamentals"]
-	path = Curso-Backend-Fundamentals
+	path = A2-Backend-Fundamentals-Expert
 	url = https://github.com/beduExpert/Curso-Backend-Fundamentals
 [submodule "Curso-Frontend-DisenoWeb-Expert"]
 	path = A1-Frontend-Fundamentals-Expert
@@ -22,3 +22,6 @@
 [submodule "Curso-Frontend-DisenoWeb-Student"]
 	path = A1-Frontend-Fundamentals-Student
 	url = https://github.com/moraelhumano/Curso-Frontend-DisenoWeb-Student
+[submodule "A2-Backend-Fundamentals-Student"]
+	path = A2-Backend-Fundamentals-Student
+	url = https://github.com/beduExpert/A2-Backend-Fundamentals-Student
