@@ -1,9 +1,6 @@
 [submodule "Curso-Backend-node.js-Expert"]
 	path = B2-Backend-node.js-Expert
 	url = https://github.com/beduExpert/Curso-Backend-node.js-Expert
-[submodule "Curso-Backend-node.js-Student"]
-	path = B2-Backend-node.js-Student
-	url = https://github.com/beduExpert/Curso-Backend-node.js-Student
 [submodule "Curso-Reactjs-student"]
 	path = C1-React-Student
 	url = https://github.com/beduExpert/Curso-Reactjs-student
