@@ -13,9 +13,6 @@
 [submodule "Curso-Backend-Fundamentals"]
 	path = A2-Backend-Fundamentals-Expert
 	url = https://github.com/beduExpert/Curso-Backend-Fundamentals
-[submodule "A2-Backend-Fundamentals-Student"]
-	path = A2-Backend-Fundamentals-Student
-	url = https://github.com/beduExpert/A2-Backend-Fundamentals-Student
 [submodule "A1-Frontend-Fundamentals-Expert"]
 	path = A1-Frontend-Fundamentals-Expert
 	url = https://github.com/beduExpert/A1-Frontend-Fundamentals-Expert
