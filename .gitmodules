@@ -13,3 +13,6 @@
 [submodule "C1-React.js"]
 	path = C1-React.js
 	url = https://github.com/beduExpert/C1-React.js
+[submodule "B1-Programacion-Con-Javascript-Expert"]
+	path = B1-Programacion-Con-Javascript-Expert
+	url = https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert
